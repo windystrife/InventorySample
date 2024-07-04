@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AGRPRO.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\pj\InventorySample\Plugins\AGRPRO\Intermediate\Build\Win64\UE4Editor\Development\AGRPRO\Module.AGRPRO.cpp.obj"
+"C:\pj\InventorySample\Plugins\AGRPRO\Intermediate\Build\Win64\UE4Editor\Development\AGRPRO\Module.AGRPRO.gen.cpp.obj"
+"C:\UE4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\pj\InventorySample\Plugins\AGRPRO\Intermediate\Build\Win64\UE4Editor\Development\AGRPRO\UE4Editor-AGRPRO.lib"

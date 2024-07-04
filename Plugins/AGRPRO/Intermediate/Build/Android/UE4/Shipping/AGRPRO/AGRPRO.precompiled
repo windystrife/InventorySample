@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.AGRPRO.cppa7.o",
+		"Module.AGRPRO.cppa8.o",
+		"Module.AGRPRO.gen.cppa7.o",
+		"Module.AGRPRO.gen.cppa8.o"
+	]
+}

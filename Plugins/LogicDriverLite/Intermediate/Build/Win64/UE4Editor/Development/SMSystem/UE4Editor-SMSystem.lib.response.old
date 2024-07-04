@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SMSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\pj\KatanaInu_Merge\Plugins\LogicDriverLite\Intermediate\Build\Win64\UE4Editor\Development\SMSystem\Module.SMSystem.cpp.obj"
+"C:\pj\KatanaInu_Merge\Plugins\LogicDriverLite\Intermediate\Build\Win64\UE4Editor\Development\SMSystem\Module.SMSystem.gen.1_of_3.cpp.obj"
+"C:\pj\KatanaInu_Merge\Plugins\LogicDriverLite\Intermediate\Build\Win64\UE4Editor\Development\SMSystem\Module.SMSystem.gen.2_of_3.cpp.obj"
+"C:\pj\KatanaInu_Merge\Plugins\LogicDriverLite\Intermediate\Build\Win64\UE4Editor\Development\SMSystem\Module.SMSystem.gen.3_of_3.cpp.obj"
+"C:\UE4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"C:\pj\KatanaInu_Merge\Plugins\LogicDriverLite\Intermediate\Build\Win64\UE4Editor\Development\SMSystem\UE4Editor-SMSystem.lib"

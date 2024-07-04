@@ -1,0 +1,43 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AGRPRO.cpp.obj": [
+			"AGRLog.cpp.obj",
+			"AGRPRO.cpp.obj",
+			"AGRCoreAnimInstance.cpp.obj",
+			"AGRCharacter.cpp.obj",
+			"AGR_CombatManager.cpp.obj",
+			"AGR_EquipmentManager.cpp.obj",
+			"AGR_InventoryManager.cpp.obj",
+			"AGR_ItemComponent.cpp.obj",
+			"AGR_SoundMaster.cpp.obj",
+			"AGRAnimMasterComponent.cpp.obj",
+			"AGR_Attack_NotifyState.cpp.obj",
+			"AGR_Footstep_Notify.cpp.obj",
+			"AGRLibrary.cpp.obj",
+			"DA_AGR_FootstepConfig.cpp.obj",
+			"AGRDebuggerController.cpp.obj",
+			"AGRDebuggerSettings.cpp.obj",
+			"AGRUWDebugWidget.cpp.obj"
+		],
+		"Module.AGRPRO.gen.cpp.obj": [
+			"AGR_Attack_NotifyState.gen.cpp.obj",
+			"AGR_CombatManager.gen.cpp.obj",
+			"AGR_EquipmentManager.gen.cpp.obj",
+			"AGR_Footstep_Notify.gen.cpp.obj",
+			"AGR_InventoryManager.gen.cpp.obj",
+			"AGR_ItemComponent.gen.cpp.obj",
+			"AGR_SoundMaster.gen.cpp.obj",
+			"AGRAnimMasterComponent.gen.cpp.obj",
+			"AGRCharacter.gen.cpp.obj",
+			"AGRCoreAnimInstance.gen.cpp.obj",
+			"AGRDebuggerController.gen.cpp.obj",
+			"AGRDebuggerSettings.gen.cpp.obj",
+			"AGRLibrary.gen.cpp.obj",
+			"AGRPRO.init.gen.cpp.obj",
+			"AGRTypes.gen.cpp.obj",
+			"AGRUWDebugWidget.gen.cpp.obj",
+			"DA_AGR_FootstepConfig.gen.cpp.obj"
+		]
+	}
+}
