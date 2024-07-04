@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "{90C1C3E3-4EF1-433F-0995-0D83CB7778AD}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "InventorySample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "AGRPRO",
